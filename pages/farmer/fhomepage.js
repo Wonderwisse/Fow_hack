@@ -1,6 +1,4 @@
 import AppBar from "../screens/appbar";
-import CartPage from "../screens/cart_page.js";
-import addToCart from "functions/addtocart";
 import { useRouter } from "next/router";
 import category from "../categories";
 import * as fcl from "@onflow/fcl";
