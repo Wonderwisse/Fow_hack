@@ -1,0 +1,95 @@
+[
+    {
+      "id": 1,
+      "date": "2022-01-01",
+      "product": "Barley",
+      "quantity": "10kg",
+      "price": "$10.00",
+      "seller": "Rajesh"
+    },
+    {
+      "id": 2,
+      "date": "2022-02-01",
+      "product": "Tomato",
+      "quantity": "8kg",
+      "price": "$6.00",
+      "seller": "suresh"
+    },{
+      "id": 3,
+      "date": "2022-01-02",
+      "product": "Milk",
+      "quantity": "3kg",
+      "price": "$5.00",
+      "seller": "kamal"
+    },{
+      "id": 4,
+      "date": "2022-03-06",
+      "product": "Carrot",
+      "quantity": "10kg",
+      "price": "$10.00",
+      "seller": "vicky"
+    },{
+      "id": 5,
+      "date": "2022-05-01",
+      "product": "Cucumber",
+      "quantity": "4.5kg",
+      "price": "$6.00",
+      "seller": "david"
+    },{
+      "id": 6,
+      "date": "2022-05-01",
+      "product": "Wheet",
+      "quantity": "25kg",
+      "price": "$20.00",
+      "seller": "steveallan"
+    },{
+      "id": 7,
+      "date": "2022-04-02",
+      "product": "Pomogranet",
+      "quantity": "3kg",
+      "price": "$6.00",
+      "seller": "Ramesh"
+    },{
+      "id": 8,
+      "date": "2022-04-04",
+      "product": "Onion",
+      "quantity": "10kg",
+      "price": "$12.00",
+      "seller": "Muthuraj"
+    },{
+      "id": 9,
+      "date": "2022-06-01",
+      "product": "Millet",
+      "quantity": "1.5",
+      "price": "$12.00",
+      "seller": "chandru"
+    },{
+      "id": 10,
+      "date": "2022-01-03",
+      "product": "Tomato",
+      "quantity": "10kg",
+      "price": "$10.00",
+      "seller": "Rajini"
+    },{
+      "id": 11,
+      "date": "2022-04-01",
+      "product": "Mango",
+      "quantity": "10kg",
+      "price": "$15.00",
+      "seller": "Alvin"
+    },{
+      "id": 12,
+      "date": "2022-01-02",
+      "product": "Cucumber",
+      "quantity": "10kg",
+      "price": "$20.00",
+      "seller": "cyril"
+    },{
+      "id": 13,
+      "date": "2022-03-01",
+      "product": "Banana",
+      "quantity": "10kg",
+      "price": "$10.00",
+      "seller": "joseph"
+    }
+  ]

@@ -1,0 +1,36 @@
+{	
+	"contracts":{
+		"AgroLink": "./contracts/AgroLink.cdc"
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"sandboxnet": "access.sandboxnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"key": "2720d8504bcfcca003dac38c0b701c80aa79f81c0ba3a0669e2a913b4781b368"
+		},
+		"testnet-account":{
+			"address": "0x85ab176b258a1b22",
+			"key":{
+				"type":"hex",
+				"index":0,
+				"signatureAlgorithm": "ECDSA_secp256k1",
+				"hashAlgorithm" : "SHA3_256",
+				"privateKey":  "257abc3e579beae6ae00878a0e9db52dd4d1f8175b512ee1957f51a7f7a2b140"
+			}
+
+		}
+	},
+	"deployments":{
+		"testnet":{
+			"testnet-account":[
+				"AgroLink"
+			]
+				
+	}
+}
+}
