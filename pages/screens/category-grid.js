@@ -10,7 +10,7 @@ function prodcard(){
     }
     
 ]
-}
+
 
 return (
   <div key={product}>
@@ -24,5 +24,5 @@ return (
 
   </div>
 )
-
+  }
 export default prodcard
