@@ -9,3 +9,4 @@ function InventoryEntry(){
     <input type="submit" value="Submit"/>
 </form>
 }
+export default InventoryEntry
